@@ -1,0 +1,7 @@
+# Conda environment files
+.conda/
+env/
+venv/
+*.conda
+*.env
+*.yaml
